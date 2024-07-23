@@ -14,4 +14,11 @@ const Tasks = ({task,deleteTask,handleStatus}) => {
   )
 }
 
+
+
+
+
+
+
+
 export default Tasks
